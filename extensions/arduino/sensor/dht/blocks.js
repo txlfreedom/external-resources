@@ -27,7 +27,7 @@ function addBlocks (Blockly) {
                     },
                     {
                         type: 'field_dropdown',
-                        name: 'MODE',
+                        name: 'MODEL',
                         options: [
                             ['dht11', '11'],
                             ['dht21', '21'],

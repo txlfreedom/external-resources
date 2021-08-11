@@ -1,12 +1,8 @@
 module.exports = {
     'en': {
-        'ironKit.description': 'Yiqichuang iron kit robot.',
-        'QDPRobot.description': 'QDP robot.',
-        'QDPRobotC02.description': 'QDP robot.'
+        'unoCore.description': 'UnoCore is a programmable control host based on ATMEGA328P master, with electronic extensions of Arduino and mechanical interest combined with Lego.'
     },
     'zh-cn': {
-        'ironKit.description': '意启创金属套件机器人。',
-        'QDPRobot.description': '齐护机器人。',
-        'QDPRobotC02.description': '齐护机器人 C02。'
+        'unoCore.description': 'UnoCore是基于ATMEGA328P主控开发的一款可编程控制主机，兼具Arduino的电子扩展性及与乐高相结合的机械趣味性。'
     }
 };

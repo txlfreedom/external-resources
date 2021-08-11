@@ -11,7 +11,5 @@ module.exports = [
     'microbitV2',
     'makeyMakey',
     // Third party
-    'ironKit_arduinoUno',
-    'QDPRobot_arduinoUnoUltra',
-    'QDPRobotC02_arduinoEsp32'
+    'unoCore_arduinoUno'
 ];
