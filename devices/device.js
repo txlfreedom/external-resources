@@ -1,4 +1,6 @@
 module.exports = [
+	// Third party
+    'unoCore_arduinoUno',
     // Buid-in device
     'arduinoUno',
     'arduinoNano',
@@ -9,7 +11,5 @@ module.exports = [
     'arduinoEsp8266',
     'microbit',
     'microbitV2',
-    'makeyMakey',
-    // Third party
-    'unoCore_arduinoUno'
+    'makeyMakey'
 ];
