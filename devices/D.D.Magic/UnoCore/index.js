@@ -6,8 +6,7 @@ const unoCore = formatMessage => ({
     iconURL: 'asset/unoCore.png',
     description: formatMessage({
         id: 'unoCore.description',
-        default: 'D.D.Magic unoCore.',
-        description: 'Description for the D.D.Magic unoCore device'
+        default: 'Description for the D.D.Magic unoCore device.'
     }),
     disabled: false,
     bluetoothRequired: false,
@@ -24,7 +23,7 @@ const unoCore = formatMessage => ({
     tags: ['arduino', 'kit'],
     deviceExtensions: [],
     deviceExtensionsCompatible: 'arduinoUno',
-    helpLink: ''
+    helpLink: ' '
 });
 
 module.exports = unoCore;

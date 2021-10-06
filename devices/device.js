@@ -1,10 +1,10 @@
 module.exports = [
-	// Third party
-    'unoCore_arduinoUno',
+    // 'unoCore_arduinoUno',
     // Buid-in device
+    'unoCore',
     'arduinoUno',
-    'arduinoNano',
-    'arduinoMini',
+    'arduinoNano_arduinoUno',
+    'arduinoMini_arduinoUno',
     'arduinoLeonardo',
     'arduinoMega2560',
     'arduinoEsp32',
