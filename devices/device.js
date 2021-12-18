@@ -2,6 +2,7 @@ module.exports = [
     // 'unoCore_arduinoUno',
     // Buid-in device
     'unoCore',
+	'unoStart',
     'arduinoUno',
     'arduinoNano_arduinoUno',
     'arduinoMini_arduinoUno',
